@@ -1,0 +1,8 @@
+"0","  df2 %>%"
+"0","  mutate(x2015 = as.numeric(x2015)) %>%"
+"0","  ggplot(aes(x = x2015)) + "
+"0","  geom_histogram(binwidth = 20) "
+"2","Problem with `mutate()` input `x2015`.
+[34mℹ[39m NAs introduced by coercion
+[34mℹ[39m Input `x2015` is `as.numeric(x2015)`."
+"2","NAs introduced by coercion"

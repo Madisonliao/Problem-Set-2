@@ -1,0 +1,5 @@
+"0",""
+"0","  df3 <- filter(df2, country_or_area %in% c(""India"",""Pakistan"",""Bangladesh"",""United States of America"")) %>%"
+"0","select(1, 2, 21) %>%"
+"0","tibble()"
+"0","df3"

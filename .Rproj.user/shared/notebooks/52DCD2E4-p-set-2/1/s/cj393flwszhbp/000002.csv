@@ -1,0 +1,33 @@
+"0","df %>% glimpse()"
+"1","Rows: 107,493"
+"1",""
+"1","
+"
+"1","Columns: 21"
+"1",""
+"1","
+"
+"1","$ case_id      [3m[38;5;246m<chr>[39m[23m ""2020-125370 CC"", ""2020-126602 CC"", ""2020-043887 CC"", ""2020-107748 CC"", ""2020-127753 CC"", ""20…
+$ priority     [3m[38;5;246m<int>[39m[23m 5, 2, 5, 2, 5, 5, 5, 5, 2, 5, 2, 2, 5, 5, 5, 5, 2, 2, 2, 2, 5, 2, 3, 5, 4, 5, 5, 5, 2, 5, 2, …
+$ status       [3m[38;5;246m<chr>[39m[23m ""Closed"", ""Closed"", ""Closed"", ""Closed"", ""Active"", ""Closed"", ""Active"", ""Closed"", ""Closed"", ""Cl…
+$ address_long [3m[38;5;246m<chr>[39m[23m ""6100 BLK  WEST GATE BLVD"", ""9219 ANDERSON MILL RD Building 1"", ""1901  WILLOW CREEK DR  Bldg …
+$ house_number [3m[38;5;246m<chr>[39m[23m """", ""9219"", ""1901"", ""3004"", ""3105"", ""701"", ""5935"", """", ""9219"", ""3504"", ""11410"", ""605"", ""7601""…
+$ street_name  [3m[38;5;246m<chr>[39m[23m """", ""ANDERSON MILL RD"", ""WILLOW CREEK DR"", ""COLLINS CREEK DR"", ""FRITZ HUGHES PARK RD"", ""TRINI…
+$ city         [3m[38;5;246m<chr>[39m[23m """", ""AUSTIN"", ""AUSTIN"", ""AUSTIN"", ""AUSTIN"", ""AUSTIN"", ""AUSTIN"", """", ""AUSTIN"", ""AUSTIN"", ""AUST…
+$ state        [3m[38;5;246m<chr>[39m[23m """", ""TX"", ""TX"", ""TX"", ""TX"", ""TX"", ""TX"", """", ""TX"", ""TX"", ""TX"", ""TX"", ""TX"", """", ""TX"", ""TX"", ""TX…
+$ zip_code     [3m[38;5;246m<int>[39m[23m NA, 78729, 78741, 78741, 78732, 78701, 78745, NA, 78729, 78704, 78758, 78703, 78744, NA, 7874…
+$ opened_date  [3m[38;5;246m<chr>[39m[23m ""8/22/20"", ""8/25/20"", ""3/16/20"", ""7/20/20"", ""8/26/20"", ""7/1/20"", ""1/28/18"", ""8/7/20"", ""8/25/2…
+$ closed_date  [3m[38;5;246m<chr>[39m[23m ""9/28/20"", ""8/26/20"", ""8/28/20"", ""8/28/20"", """", ""8/28/20"", """", ""8/27/20"", ""8/28/20"", ""8/25/20…
+$ department   [3m[38;5;246m<chr>[39m[23m ""Code Enforcement"", ""Code Enforcement"", ""Code Enforcement"", ""Code Enforcement"", ""Code Enforce…
+$ case_type    [3m[38;5;246m<chr>[39m[23m ""Complaints"", ""Complaints"", ""Complaints"", ""Complaints"", ""Complaints"", ""Complaints"", ""Complain…
+$ description  [3m[38;5;246m<chr>[39m[23m ""Property Abatement"", ""Structure Condition Violation(s)"", ""Structure Condition Violation(s)"",…
+$ case_contact [3m[38;5;246m<chr>[39m[23m """", ""9219 ANDERSON LLC % GOLD STANDARD ASSET MANAGEMENT"", ""1911 WILLOW CREEK LLC"", ""SHFC OAK …
+$ case_manager [3m[38;5;246m<chr>[39m[23m ""Jeffrey Moody|512-974-9723"", ""Reynaldo Cruz|(512)974-3615"", ""Jason Ortiz|(512) 974-2385"", ""L…
+$ date_updated [3m[38;5;246m<chr>[39m[23m ""9/28/20 0:00"", ""8/26/20 0:00"", ""8/28/20 0:00"", ""8/28/20 0:00"", ""8/28/20 0:00"", ""8/28/20 0:00…
+$ last_update  [3m[38;5;246m<chr>[39m[23m ""Closed due to Voluntary Compliance"", ""Follow-up Inspection"", ""Closed due to Voluntary Compli…
+$ latitude     [3m[38;5;246m<dbl>[39m[23m 30.51082, 30.45093, 30.23394, 30.22303, 30.38118, 30.26822, 30.20712, 30.51082, 30.45093, 30.…
+$ longitude    [3m[38;5;246m<dbl>[39m[23m -97.74701, -97.78260, -97.72788, -97.73207, -97.91325, -97.73869, -97.78899, -97.74701, -97.7…
+$ location     [3m[38;5;246m<chr>[39m[23m ""(30.51081514, -97.74700986)"", ""(30.45092881, -97.78260329)"", ""(30.23394374, -97.72787696)"", …"
+"1",""
+"1","
+"

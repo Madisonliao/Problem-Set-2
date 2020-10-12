@@ -1,0 +1,4 @@
+"0","df2%>%"
+"0","plot(variable, value ,panel.first = grid)"
+"2","Error in match.fun(panel) : object 'value' not found
+"
